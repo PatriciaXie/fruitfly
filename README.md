@@ -3,7 +3,7 @@
 
 ## 1. calib.py
 
-将选好的成组标定图像（cam1、cam2、cam3文件夹，10~20三元组最佳）保存到dataPath文件夹，则calib.py脚本可以同时完成单目和立体标定。
+将选好的成组标定图像（cam1、cam2、cam3文件夹，10~20三元组最佳）保存到`dataPath`文件夹，则`calib.py`脚本可以同时完成单目和立体标定。
 
 输入：路径`dataPath`
 
